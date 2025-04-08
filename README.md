@@ -7,22 +7,33 @@
 
 ## 🔧 Technical Skills
 
-**Programming & Scripting:**  
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit)  
-- SQL (BigQuery, PostgreSQL, MySQL)  
-- R (Basic)  
 
-**Data Visualization & Reporting:**  
-- Power BI  
-- Google Data Studio  
-- Excel (Advanced Analytics, Dashboards, Pivot Tables)
+### 🐍 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
 
-**Cloud & Tools:**  
-- Google Cloud Platform (BigQuery, Vertex AI, Cloud Functions)  
-- ElasticSearch  
-- Jupyter Notebook  
-- Git, GitHub  
-- Docker (Basic)
+### 📊 Data Visualization & Reporting
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=googledatastudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-000000?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 **ML & Analytics:**  
 - Supervised & Unsupervised Learning  
