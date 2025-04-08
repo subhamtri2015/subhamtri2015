@@ -35,20 +35,25 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-**ML & Analytics:**  
-- Supervised & Unsupervised Learning  
-- Model Deployment  
-- NLP (Text Classification, Sentiment Analysis)  
-- Time Series Forecasting  
-- Clustering & RFM Segmentation  
-- Data Cleaning & Feature Engineering
+### 🤖 Machine Learning & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Supervised%20Learning-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-F4A460?style=flat-square" />
+  <img src="https://img.shields.io/badge/Text%20Classification-4682B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-1E90FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RFM%20Segmentation-9ACD32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clustering-DC143C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Deployment-32CD32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-9370DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-F08080?style=flat-square" />
+</p>
+
 
 **Soft Skills & Collaboration:**  
-- Agile & Scrum (Sprint Planning, Stand-ups)  
-- Stakeholder Management  
-- Problem-Solving & Critical Thinking  
-- Cross-functional Team Collaboration  
-- Client Communication & Presentation
+- Agile & Scrum (Sprint Planning, Stand-ups) , Stakeholder Management  , Problem-Solving & Critical Thinking  , Cross-functional Team Collaboration  ,
+  Client Communication & Presentation
 
 ---
 
