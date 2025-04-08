@@ -51,9 +51,17 @@
 </p>
 
 
-**Soft Skills & Collaboration:**  
-- Agile & Scrum (Sprint Planning, Stand-ups) , Stakeholder Management  , Problem-Solving & Critical Thinking  , Cross-functional Team Collaboration  ,
-  Client Communication & Presentation
+### 🤝 Soft Skills & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Agile%20%26%20Scrum-FCA121?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sprint%20Planning-FF7F50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-4682B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-9370DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team%20Collaboration-20B2AA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Client%20Communication-00CED1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-1E90FF?style=flat-square" />
+</p>
+
 
 ---
 
