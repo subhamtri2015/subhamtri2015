@@ -62,6 +62,27 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-1E90FF?style=flat-square" />
 </p>
 
+### 📜 Certifications
+
+| Title | Link |
+|-------|------|
+| 🧠 Generative AI with Google | [View Certificate](https://drive.google.com/file/d/1GGZBssM7xpklhCXoeWNJnsdbSgXAWkK7/view?usp=drive_link) |
+| 📊 Power BI – Simplilearn | [View Certificate](https://drive.google.com/file/d/15fy44ehAuRK5Y-WiX4Dxd7xb9eOVrwmq/view?usp=drive_link) |
+| 📈 Data Science Career Track – Scaler | [View Certificate](https://drive.google.com/file/d/1YXYhD2nOWQO1DE-yp6sKBq7dcaiSzZ9j/view?usp=drive_link) |
+| 🔍 Data Analytics with SQL | [View Certificate](https://drive.google.com/file/d/1aRT-UnFP3wx94c5Mb1unzxN8nWwysrDm/view?usp=drive_link) |
+| 🧪 Machine Learning – Scaler | [View Certificate](https://drive.google.com/file/d/1q73HMTdDBgW2Sq04sLFwbSFg-dgedx7e/view?usp=drive_link) |
+| 📚 Databases & SQL – Coursera | [View Certificate](https://drive.google.com/file/d/1medCoEZOelDz9-0VdSkuHodvA0AMynLH/view?usp=drive_link) |
+| 📦 Power BI Advanced | [View Certificate](https://drive.google.com/file/d/13jCTg4YPWKxdgdGhekt61DLfMC7nzuJC/view?usp=drive_link) |
+| 🧠 Introduction to Gen AI | [View Certificate](https://drive.google.com/file/d/1MRjJCNkW580kFjJ7s6JmlHL6BNOFamoX/view?usp=drive_link) |
+| 🧪 ML & Vertex AI – Google | [View Certificate](https://drive.google.com/file/d/1dm0trWysGUr-1wV9nJh7fbWWfsUeAlqY/view?usp=drive_link) |
+| 🌐 Agile with Atlassian | [View Certificate](https://drive.google.com/file/d/11z7vDb98pfUT-0p5Crw0M30AISY4C9z5/view?usp=drive_link) |
+| 🔎 SQL Advanced – Scaler | [View Certificate](https://drive.google.com/file/d/1FiZKg9maknih6ydiJXBJfAVpz6ppgwP3/view?usp=drive_link) |
+| 📶 EDA in Python | [View Certificate](https://drive.google.com/file/d/1vDX1yPWAkUkyC7FSBfvYpAQG9RsQIT_O/view?usp=drive_link) |
+| 🧾 Data Analytics – Coursera | [View Certificate](https://drive.google.com/file/d/1hQWjC6FZMWp2sbW6Mv8OJ1SPNCTR5hdD/view?usp=drive_link) |
+| 📈 Data Visualization – Scaler | [View Certificate](https://drive.google.com/file/d/1rGsObxbqNAa11XXnJrREsTX_KyKVVVV0/view?usp=drive_link) |
+| 🧰 Git & GitHub | [View Certificate](https://drive.google.com/file/d/13q-498k2phn59uhffLIndciUjaiA5TqL/view?usp=drive_link) |
+| 🤖 ML & AI – Great Learning | [View Certificate](https://drive.google.com/file/d/1FaFo29F0tdi4ZYCbrLvHvW12_mFwDwEg/view?usp=drive_link) |
+
 
 ---
 
