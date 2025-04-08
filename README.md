@@ -64,7 +64,7 @@
 
 ## 📜 Certifications
 
-<p align="center">
+<p align="left">
   <!-- Left Column -->
   <span>
     <a href="https://drive.google.com/file/d/1GGZBssM7xpklhCXoeWNJnsdbSgXAWkK7/view?usp=drive_link">
