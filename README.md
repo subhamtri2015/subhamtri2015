@@ -64,24 +64,56 @@
 
 ### 📜 Certifications
 
-| Title | Link |
-|-------|------|
-| 🧠 Generative AI with Google | [View Certificate](https://drive.google.com/file/d/1GGZBssM7xpklhCXoeWNJnsdbSgXAWkK7/view?usp=drive_link) |
-| 📊 Power BI – Simplilearn | [View Certificate](https://drive.google.com/file/d/15fy44ehAuRK5Y-WiX4Dxd7xb9eOVrwmq/view?usp=drive_link) |
-| 📈 Data Science Career Track – Scaler | [View Certificate](https://drive.google.com/file/d/1YXYhD2nOWQO1DE-yp6sKBq7dcaiSzZ9j/view?usp=drive_link) |
-| 🔍 Data Analytics with SQL | [View Certificate](https://drive.google.com/file/d/1aRT-UnFP3wx94c5Mb1unzxN8nWwysrDm/view?usp=drive_link) |
-| 🧪 Machine Learning – Scaler | [View Certificate](https://drive.google.com/file/d/1q73HMTdDBgW2Sq04sLFwbSFg-dgedx7e/view?usp=drive_link) |
-| 📚 Databases & SQL – Coursera | [View Certificate](https://drive.google.com/file/d/1medCoEZOelDz9-0VdSkuHodvA0AMynLH/view?usp=drive_link) |
-| 📦 Power BI Advanced | [View Certificate](https://drive.google.com/file/d/13jCTg4YPWKxdgdGhekt61DLfMC7nzuJC/view?usp=drive_link) |
-| 🧠 Introduction to Gen AI | [View Certificate](https://drive.google.com/file/d/1MRjJCNkW580kFjJ7s6JmlHL6BNOFamoX/view?usp=drive_link) |
-| 🧪 ML & Vertex AI – Google | [View Certificate](https://drive.google.com/file/d/1dm0trWysGUr-1wV9nJh7fbWWfsUeAlqY/view?usp=drive_link) |
-| 🌐 Agile with Atlassian | [View Certificate](https://drive.google.com/file/d/11z7vDb98pfUT-0p5Crw0M30AISY4C9z5/view?usp=drive_link) |
-| 🔎 SQL Advanced – Scaler | [View Certificate](https://drive.google.com/file/d/1FiZKg9maknih6ydiJXBJfAVpz6ppgwP3/view?usp=drive_link) |
-| 📶 EDA in Python | [View Certificate](https://drive.google.com/file/d/1vDX1yPWAkUkyC7FSBfvYpAQG9RsQIT_O/view?usp=drive_link) |
-| 🧾 Data Analytics – Coursera | [View Certificate](https://drive.google.com/file/d/1hQWjC6FZMWp2sbW6Mv8OJ1SPNCTR5hdD/view?usp=drive_link) |
-| 📈 Data Visualization – Scaler | [View Certificate](https://drive.google.com/file/d/1rGsObxbqNAa11XXnJrREsTX_KyKVVVV0/view?usp=drive_link) |
-| 🧰 Git & GitHub | [View Certificate](https://drive.google.com/file/d/13q-498k2phn59uhffLIndciUjaiA5TqL/view?usp=drive_link) |
-| 🤖 ML & AI – Great Learning | [View Certificate](https://drive.google.com/file/d/1FaFo29F0tdi4ZYCbrLvHvW12_mFwDwEg/view?usp=drive_link) |
+<p align="center">
+  <a href="https://drive.google.com/file/d/1GGZBssM7xpklhCXoeWNJnsdbSgXAWkK7/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Generative_AI_with_Google-blue?style=for-the-badge&logo=google" />
+  </a>
+  <a href="https://drive.google.com/file/d/15fy44ehAuRK5Y-WiX4Dxd7xb9eOVrwmq/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Power_BI_Simplilearn-yellow?style=for-the-badge&logo=powerbi" />
+  </a>
+  <a href="https://drive.google.com/file/d/1YXYhD2nOWQO1DE-yp6sKBq7dcaiSzZ9j/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Data_Science_Scaler-blueviolet?style=for-the-badge&logo=python" />
+  </a>
+  <a href="https://drive.google.com/file/d/1aRT-UnFP3wx94c5Mb1unzxN8nWwysrDm/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Data_Analytics_with_SQL-orange?style=for-the-badge&logo=mysql" />
+  </a>
+  <a href="https://drive.google.com/file/d/1q73HMTdDBgW2Sq04sLFwbSFg-dgedx7e/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Machine_Learning_Scaler-blue?style=for-the-badge&logo=scikit-learn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1medCoEZOelDz9-0VdSkuHodvA0AMynLH/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Databases_and_SQL_Coursera-green?style=for-the-badge&logo=postgresql" />
+  </a>
+  <a href="https://drive.google.com/file/d/13jCTg4YPWKxdgdGhekt61DLfMC7nzuJC/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Power_BI_Advanced-red?style=for-the-badge&logo=microsoft-powerpoint" />
+  </a>
+  <a href="https://drive.google.com/file/d/1MRjJCNkW580kFjJ7s6JmlHL6BNOFamoX/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Intro_to_Gen_AI-lightgrey?style=for-the-badge&logo=openai" />
+  </a>
+  <a href="https://drive.google.com/file/d/1dm0trWysGUr-1wV9nJh7fbWWfsUeAlqY/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/ML_%2B_Vertex_AI-brightgreen?style=for-the-badge&logo=googlecloud" />
+  </a>
+  <a href="https://drive.google.com/file/d/11z7vDb98pfUT-0p5Crw0M30AISY4C9z5/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Agile_Methodology-black?style=for-the-badge&logo=jira" />
+  </a>
+  <a href="https://drive.google.com/file/d/1FiZKg9maknih6ydiJXBJfAVpz6ppgwP3/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/SQL_Advanced-red?style=for-the-badge&logo=database" />
+  </a>
+  <a href="https://drive.google.com/file/d/1vDX1yPWAkUkyC7FSBfvYpAQG9RsQIT_O/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/EDA_in_Python-purple?style=for-the-badge&logo=python" />
+  </a>
+  <a href="https://drive.google.com/file/d/1hQWjC6FZMWp2sbW6Mv8OJ1SPNCTR5hdD/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Data_Analytics-Coursera-blue?style=for-the-badge&logo=databricks" />
+  </a>
+  <a href="https://drive.google.com/file/d/1rGsObxbqNAa11XXnJrREsTX_KyKVVVV0/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Data_Visualization_Scaler-green?style=for-the-badge&logo=tableau" />
+  </a>
+  <a href="https://drive.google.com/file/d/13q-498k2phn59uhffLIndciUjaiA5TqL/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Git_%26_GitHub-brown?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://drive.google.com/file/d/1FaFo29F0tdi4ZYCbrLvHvW12_mFwDwEg/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/ML_%26_AI_Great_Learning-cyan?style=for-the-badge&logo=deep-learning" />
+  </a>
+</p>
 
 
 ---
