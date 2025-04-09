@@ -136,11 +136,11 @@
 
 ## 📊 Featured Projects
 
-- 📦 **[Warehouse Operations Dashboard](https://github.com/your-repo)**  
-  _Power BI solution tracking order KPIs, inventory, and on-time delivery metrics._
+- 📦 **[Warehouse Operations Dashboard](https://github.com/subhamtri2015/warehouse-dashboard-powerbi)**  
+  _Data-Driven Warehouse Optimization Dashboard – Actionable Insights for Operational Excellence._
 
-- 🎯 **[Customer Segmentation with RFM](https://github.com/your-repo)**  
-  _Performed RFM-based clustering to discover and target high-value E-Commerce customers._
+- 🎯 **[Car Damage Assessment - YOLOv5](https://github.com/subhamtri2015/Car-Damage-Assessment)**  
+  _Car Damage Assessment using Computer Vision – Deep Learning-Powered Visual Inspection & Severity Analysis._
 
 - 📈 **[Sales Forecasting using ARIMA & Prophet](https://github.com/your-repo)**  
   _Time-series forecasting for retail stores across regions using Python._
