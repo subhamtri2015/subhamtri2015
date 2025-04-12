@@ -145,10 +145,10 @@
 - 📈 **[Sales Forecasting using ARIMA & Prophet](https://github.com/your-repo)**  
   _Time-series forecasting for retail stores across regions using Python._
 
-- 💬 **[Sentiment Analysis of Reviews](https://github.com/your-repo)**  
-  _Scikit-learn NLP pipeline + Streamlit interface for product feedback classification._
+- 💬 **[ARIMA Sales Forecasting](https://github.com/your-repo)**  
+  _SARIMAX Time Series Modeling + Exploratory Data Analysis + Business Insights on Grocery Sales Forecasting.._
 
-- 📊 **[Marketing Campaign Dashboard](https://github.com/your-repo)**  
+- 📊 **[Perception Mapping O  f Different Brands Using R](https://github.com/your-repo)**  
   _Google Data Studio report with real-time CTR, ROI, and customer conversion metrics._
 
 ---
