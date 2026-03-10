@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subham Tripathy
 
-🎓 MBA in Business Analytics | 💻 Ex-Machine Learning Engineer at Quantiphi  
+🎓 MBA in Big Data & Business Analytics | 💻 Ex-Machine Learning Engineer at Quantiphi  
 🔍 Aspiring Data Analyst | 🚀 Passionate about solving business problems using AI, ML & Data
 
 ---
