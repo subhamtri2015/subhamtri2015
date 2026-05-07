@@ -65,7 +65,6 @@
 ## 📜 Certifications
 
 <p align="left">
-  <!-- Left Column -->
   <span>
     <a href="https://drive.google.com/file/d/1GGZBssM7xpklhCXoeWNJnsdbSgXAWkK7/view?usp=drive_link">
       <img src="https://img.shields.io/badge/Generative_AI_with_Google-blue?style=for-the-badge&logo=google" />
@@ -91,10 +90,6 @@
     <a href="https://drive.google.com/file/d/1MRjJCNkW580kFjJ7s6JmlHL6BNOFamoX/view?usp=drive_link">
       <img src="https://img.shields.io/badge/Intro_to_Gen_AI-lightgrey?style=for-the-badge&logo=openai" />
     </a>
-  </span>
-
-  <!-- Right Column -->
-  <span>
     <a href="https://drive.google.com/file/d/1dm0trWysGUr-1wV9nJh7fbWWfsUeAlqY/view?usp=drive_link">
       <img src="https://img.shields.io/badge/ML_%2B_Vertex_AI-brightgreen?style=for-the-badge&logo=googlecloud" />
     </a>
@@ -142,23 +137,20 @@
 - 🎯 **[Car Damage Assessment - YOLOv5](https://github.com/subhamtri2015/Car-Damage-Assessment)**  
   _Car Damage Assessment using Computer Vision – Deep Learning-Powered Visual Inspection & Severity Analysis._
 
-- 📈 **[Sales Forecasting using ARIMA & Prophet](https://github.com/your-repo)**  
+- 📈 **[Sales Forecasting using ARIMA & Prophet](https://github.com/subhamtri2015)**  
   _Time-series forecasting for retail stores across regions using Python._
 
-- 💬 **[ARIMA Sales Forecasting](https://github.com/your-repo)**  
-  _SARIMAX Time Series Modeling + Exploratory Data Analysis + Business Insights on Grocery Sales Forecasting.._
-
-- 📊 **[Perception Mapping O  f Different Brands Using R](https://github.com/your-repo)**  
-  _Google Data Studio report with real-time CTR, ROI, and customer conversion metrics._
+- 📊 **[Perception Mapping of Different Brands Using R](https://github.com/subhamtri2015)**  
+  _Brand perception analysis using R with Google Data Studio reporting – real-time CTR, ROI, and customer conversion metrics._
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 - 📧 Email: **subhamtri2015@gmail.com**
-- 🔗 LinkedIn: [www.linkedin.com/in/subham-s-tripathy](www.linkedin.com/in/subham-s-tripathy)  
+- 🔗 LinkedIn: [linkedin.com/in/subham-s-tripathy](https://www.linkedin.com/in/subham-s-tripathy)
 - 🌐 Portfolio: _Coming Soon_
 
 ---
 
-> 🌱 *“Learning never exhausts the mind.” – Leonardo da Vinci*
+> 🌱 *"Learning never exhausts the mind." – Leonardo da Vinci*
