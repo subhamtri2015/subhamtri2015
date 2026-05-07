@@ -156,7 +156,7 @@
 ## 🤝 Let’s Connect
 
 - 📧 Email: **subhamtri2015@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/subhamtripathy](www.linkedin.com/in/subham-s-tripathy)  
+- 🔗 LinkedIn: [www.linkedin.com/in/subham-s-tripathy](www.linkedin.com/in/subham-s-tripathy)  
 - 🌐 Portfolio: _Coming Soon_
 
 ---
