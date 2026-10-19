@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=220&section=header&text=Subham%20Tripathy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Product%20Manager%20%7C%20AI%20Product%20Manager&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=220&section=header&text=Subham%20Tripathy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Associate%20Product%20Manager%20%7C%20AI%20Product%20Manager&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Decision+Science+Analyst+%40+Accenture+%F0%9F%A7%A0;Turning+Messy+Workflows+into+AI+Products+%F0%9F%9A%80;IBM+AI+Product+Manager+Certificate+%F0%9F%93%9C;North+Star+Metrics+%7C+Retention+%7C+Agentic+Workflows+%F0%9F%93%8A" alt="Typing SVG" />
