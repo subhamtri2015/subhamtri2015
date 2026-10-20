@@ -151,8 +151,8 @@
 
 | 🚀 What I built | 🏢 Context | 📊 Result |
 |:---|:---|:---:|
-| 🤖 Agentic workflows | Accenture, healthcare client | Design to delivery with client and Accenture teams |
-| 🔌 Custom data connectors into BigQuery | Quantiphi | Lower pipeline latency, **40% better accuracy** |
+| 🤖 Agentic workflows | Accenture | Design to delivery with client and Accenture teams |
+| 🔌 Custom data connectors into BigQuery | Quantiphi | Lower pipeline latency, **60% better accuracy** |
 | 📄 ETL and document-extraction pipelines | Quantiphi (Airflow, Elasticsearch, PySpark, Vertex AI) | **Processing time halved**, **50% better** extraction accuracy |
 | 📊 Spark + BigQuery pipelines with Power BI dashboards | Quantiphi | **30% more efficient** client decisions |
 | 🧠 GenAI benchmarking pipeline (RAG, FAISS) | Tata Capital (intern) | **60% boost** in competitive-intelligence delivery |
