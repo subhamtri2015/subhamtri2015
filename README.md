@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=220&section=header&text=Subham%20Tripathy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Associate%20Product%20Manager%20%7C%20AI%20Product%20Manager&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Decision+Science+Analyst+%40+Accenture+%F0%9F%A7%A0;Turning+Messy+Workflows+into+AI+Products+%F0%9F%9A%80;IBM+AI+Product+Manager+Certificate+%F0%9F%93%9C;North+Star+Metrics+%7C+Retention+%7C+Agentic+Workflows+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Decision+Science+Analyst+%40+Accenture+%F0%9F%A7%A0;Turning+Messy+Workflows+into+AI+Products+%F0%9F%9A%80;IBM+AI+Product+Manager+Certificate+%F0%9F%93%9C;North+Star+Metrics+%7C+Retention+%7C+Experimentation+%7C+Agentic+Workflows+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,10 +22,10 @@
 
 | | |
 |:---:|:---|
-| 🎯 | **Targeting Associate Product Manager and AI Product Manager roles** |
+| 🎯 | **Targeting Associate Product Manager/AI Product Manager and AI Business Analyst roles** |
 | 💼 | **AI Decision Science Analyst @ Accenture**, designing agentic AI workflows for a healthcare client |
 | 🧩 | Requirement gathering, **BPMN** as-is / to-be process maps, deciding where AI agents fit and where humans review |
-| 📊 | Product metrics: North Star, retention, churn, LTV, engagement, with self-serve analysis in SQL, Python and Power BI |
+| 📊 | Product metrics: North Star, retention, churn, LTV, funnels, **A/B testing**, with self-serve analysis in SQL, Python, GA4 and Power BI |
 | 🛠️ | Ex-ML Engineer @ Quantiphi (GCP, BigQuery, Vertex AI), so I can talk to engineers in their language |
 | 🎓 | **PGDM, Big Data Analytics** · Goa Institute of Management · **B.Tech EEE** · IIIT Bhubaneswar |
 
@@ -50,7 +50,7 @@
 
 | 1️⃣ Understand | 2️⃣ Map | 3️⃣ Measure | 4️⃣ Design | 5️⃣ Deliver |
 |:---:|:---:|:---:|:---:|:---:|
-| Gather requirements from business and technical stakeholders | Draw the **as-is** and **to-be** process in BPMN | Pick a **North Star** metric tied to retention or LTV | Decide where AI or an agent fits, and where a human reviews | Ship in Agile sprints with feedback loops |
+| Gather requirements from business and technical stakeholders | Draw the **as-is** and **to-be** process in BPMN | Pick a **North Star** metric tied to retention or LTV | Decide where AI or an agent fits, and where a human reviews | Ship in Agile sprints, then validate with experiments |
 
 </div>
 
@@ -76,9 +76,48 @@
           <img src="https://img.shields.io/badge/30--Prompt-Eval%20Set-8B5CF6?style=flat-square" />
           <img src="https://img.shields.io/badge/OpenAPI-Spec-6BA539?style=flat-square" />
           <img src="https://img.shields.io/badge/Figma-Prototype-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jira-Confluence-0052CC?style=flat-square&logo=jira&logoColor=white" />
         </p>
         <a href="https://github.com/subhamtri2015/governed-ai-app-builder">
           <img src="https://img.shields.io/badge/GitHub-Read%20the%20Case%20Study-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧪 A/B Testing & Experimentation</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Experimentation-Decision%20Memo-0EA5E9?style=for-the-badge" />
+        <br/><br/>
+        <p><b>Problem:</b> PMs ship on "the number went up" without checking whether the result is real or big enough to matter.<br/>
+        <b>Project:</b> an end-to-end experiment analysis on real results only: hypothesis, power and MDE, SRM check, significance, practical significance, and a ship / iterate / stop decision memo.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Power%20%26%20MDE-8B5CF6?style=flat-square" />
+          <img src="https://img.shields.io/badge/SRM%20Check-34A853?style=flat-square" />
+          <img src="https://img.shields.io/badge/Decision%20Memo-FF6B35?style=flat-square" />
+        </p>
+        <!-- TODO: replace REPLACE-WITH-AB-TEST-REPO-URL -->
+        <a href="REPLACE-WITH-AB-TEST-REPO-URL">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 E-commerce Funnel & Segmentation Analytics</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Product%20Analytics-GA4%20%7C%20Amplitude-E37400?style=for-the-badge" />
+        <br/><br/>
+        <p><b>Problem:</b> where do shoppers drop off, and which segments are worth the most?<br/>
+        <b>Project:</b> three analyses: GA4 age/gender segmentation with ARPU and ARPPU, a GA4 7-step purchase funnel, and Amplitude sign-up friction and correlation analysis.</p>
+        <p>
+          <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+          <img src="https://img.shields.io/badge/Amplitude-1E61F0?style=flat-square" />
+          <img src="https://img.shields.io/badge/Funnel%20Analysis-34A853?style=flat-square" />
+        </p>
+        <!-- TODO: replace REPLACE-WITH-ECOMMERCE-REPO-URL -->
+        <a href="REPLACE-WITH-ECOMMERCE-REPO-URL">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </div>
     </td>
@@ -170,6 +209,8 @@
 ![Requirements](https://img.shields.io/badge/Requirements%20Gathering-8B5CF6?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN%20Process%20Mapping-6366F1?style=for-the-badge)
 ![Metrics](https://img.shields.io/badge/Product%20Metrics-34A853?style=for-the-badge)
+![Experimentation](https://img.shields.io/badge/A%2FB%20Testing-0EA5E9?style=for-the-badge)
+![PRD](https://img.shields.io/badge/PRDs%20%26%20RICE-FF6B35?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-1F2937?style=for-the-badge&logo=jira&logoColor=white)
 ![Stakeholders](https://img.shields.io/badge/Stakeholder%20Management-FF6B35?style=for-the-badge)
 
@@ -184,6 +225,7 @@
 ### 📊 Data & Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -269,9 +311,10 @@
 
 <div align="center">
 
-<!-- TODO: add credential links for the first three badges -->
+<!-- TODO: add credential links for the first four badges -->
 ![IBM AI PM](https://img.shields.io/badge/IBM-AI_Product_Manager_Professional_Certificate-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic-Claude_Certified_Architect_Foundations-D97757?style=flat-square)
+![Databricks](https://img.shields.io/badge/Databricks-Generative_AI_Engineer_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Data_Analyst_Associate-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![ML](https://img.shields.io/badge/Machine_Learning-Stanford_%2F_Coursera-8C1515?style=flat-square&logo=coursera&logoColor=white)
 
@@ -298,7 +341,7 @@
 
 <div align="center">
 
-### Open to Associate Product Manager and AI Product Manager opportunities
+### Open to Associate Product Manager/AI Product Manager and AI Business Analyst opportunities
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-s-tripathy)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhamtri2015@gmail.com)
